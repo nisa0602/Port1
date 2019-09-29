@@ -1,3 +1,3 @@
 # Port1
 Belajar Bootstrap
-I made this after a week for joining Binar Academy
+I made this after joining Binar Academy for a week
